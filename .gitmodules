@@ -1,0 +1,9 @@
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = https://github.com/tpope/vim-bundler.git
+[submodule "vim-rvm"]
+	path = vim-rvm
+	url = https://github.com/tpope/vim-rvm.git
+[submodule "command-t"]
+	path = command-t
+	url = https://github.com/wincent/Command-T.git
