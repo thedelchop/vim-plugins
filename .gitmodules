@@ -7,3 +7,6 @@
 [submodule "command-t"]
 	path = command-t
 	url = https://github.com/wincent/Command-T.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
