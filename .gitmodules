@@ -13,3 +13,12 @@
 [submodule "vim-indent-guides"]
 	path = vim-indent-guides
 	url = https://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "tslime"]
+	path = tslime
+	url = https://github.com/jgdavey/tslime.vim.git
+[submodule "turbux"]
+	path = turbux
+	url = https://github.com/jgdavey/vim-turbux.git
