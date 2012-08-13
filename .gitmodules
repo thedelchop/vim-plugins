@@ -31,3 +31,6 @@
 [submodule "tabular"]
 	path = tabular
 	url = https://github.com/godlygeek/tabular.git
+[submodule "evervim"]
+	path = evervim
+	url = https://github.com/kakkyz81/evervim.git
