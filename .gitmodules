@@ -28,3 +28,6 @@
 [submodule "evervim"]
 	path = evervim
 	url = https://github.com/kakkyz81/evervim.git
+[submodule "you-complete-me"]
+	path = you-complete-me
+	url = https://github.com/Valloric/YouCompleteMe.git
