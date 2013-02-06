@@ -19,9 +19,6 @@
 [submodule "turbux"]
 	path = turbux
 	url = https://github.com/jgdavey/vim-turbux.git
-[submodule "bundle/jasmine"]
-	path = bundle/jasmine
-	url = git://github.com/claco/jasmine.vim.git
 [submodule "jasmine-vim"]
 	path = jasmine-vim
 	url = git://github.com/claco/jasmine.vim.git
